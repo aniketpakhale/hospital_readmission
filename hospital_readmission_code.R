@@ -1,6 +1,6 @@
 ---
 title: "My R project"
-author: "Pranit Shinde"
+author: "Aniket pakhale"
 date: "22 December 2018"
 output:
   pdf_document: default
